@@ -25,5 +25,6 @@ Customer Location
 5. Features / Highlights :
    Business Problem:
 Retail businesses often collect large volumes of customer transaction data, but identifying meaningful purchasing patterns and customer preferences from raw data is difficult. Manual analysis is time-consuming and limits strategic decision-making.
-6. Screenshots : 
+6. Screenshots : https://github.com/arunsengar-official/Customer-Behavior-Analysis-Dashboard/blob/main/Cust%20Behavior%20.png
+   https://github.com/arunsengar-official/Customer-Behavior-Analysis-Dashboard/blob/main/CUst%20Behavior%20Best%20%26%20Worst%20.png
 
